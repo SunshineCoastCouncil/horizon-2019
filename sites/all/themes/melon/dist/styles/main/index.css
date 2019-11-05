@@ -8,7 +8,7 @@
 }
 
 .event-key-info.event-map {
-  display: none;
+  display: none !important;
 }
 
 /*# sourceMappingURL=main.css.map */
